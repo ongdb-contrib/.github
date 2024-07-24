@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center">「使用图数据的方式来表达现实世界的关系」</p>
+<p align="center">「Using graph data to represent real-world relationships」</p>
 
 <p align="center">
   <a href="https://github.com/ongdb-contrib">
